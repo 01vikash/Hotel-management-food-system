@@ -10,7 +10,7 @@ int main()
 	int total_tabels=0,total_pasta=0,total_burger=0,total_noodles=0,total_shake=0,total_chicken=0;//these are the quqntity price
 	
 	
-	cout<<"\n\t quantity of items we have"<<endl;
+	cout<<"\n\t       quantity of items we have"<<endl;
 	cout<<"Tabels available"<<endl;
 	cin>>Qtabels;
     cout<<"Quantity of pasta"<<endl;
